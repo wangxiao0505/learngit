@@ -1,6 +1,10 @@
 learn git
 git pull origin master --allow-unrelated-histories git push -u origin master
 
+<<<<<<< HEAD
 git branch
 
 checkout 分支
+=======
+dev branch
+>>>>>>> dev
