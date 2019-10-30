@@ -1,2 +1,6 @@
 learn git
 git pull origin master --allow-unrelated-histories git push -u origin master
+
+git branch
+
+checkout 分支
